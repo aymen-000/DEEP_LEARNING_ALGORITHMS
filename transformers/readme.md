@@ -12,10 +12,3 @@ This repository contains a basic implementation of a Transformer model using PyT
 - `TransformerBlock.py`: Implements a single Transformer block.
 - `example.py`: A sample script to demonstrate how to use the Transformer model with sample input data.
 
-## Usage
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/transformer-implementation.git
-cd transformer-implementation
