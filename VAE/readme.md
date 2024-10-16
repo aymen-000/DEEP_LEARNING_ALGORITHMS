@@ -74,8 +74,8 @@ After training the model, the following results can be visualized:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/aymen-000/vae-mnist.git
-cd vae-mnist
+git clone https://github.com/aymen-000/DEEP_LEARNING_ALGORITHMS
+cd DEEP_LEARNING_ALGORITHM/VAE
 pip install -r requirements.txt
 python main.py --num_epochs 60 --batch_size 64 --lr 1e-3
 tensorboard --logdir=/runs 
